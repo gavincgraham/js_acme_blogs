@@ -1,9 +1,9 @@
 # Acme Blogs
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fe38646d-18bf-4f33-856c-2e24d4ce71cf/deploy-status)](https://app.netlify.com/projects/eloquent-mochi-90fd0c/deploys)
-**Start by clicking the Remix on Glitch button above.**
 
+**Start by clicking the Remix on Glitch button above.**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fe38646d-18bf-4f33-856c-2e24d4ce71cf/deploy-status)](https://app.netlify.com/projects/eloquent-mochi-90fd0c/deploys)
 _Once you are working with your own copy of the project on Glitch..._
 
 **Follow the directions available in Blackboard** 
